@@ -1,0 +1,16 @@
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\bin\Debug\MathsLibrary.dll
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\bin\Debug\MathsLibrary.pdb
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\bin\Debug\MathsLibrary.xml
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\obj\Debug\MathsLibrary.Resources.resources
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\obj\Debug\MathsLibrary.vbproj.GenerateResource.Cache
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\obj\Debug\MathsLibrary.dll
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\obj\Debug\MathsLibrary.xml
+C:\Users\neetu\AppData\Local\Temporary Projects\MathsLibrary\obj\Debug\MathsLibrary.pdb
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.pdb
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.xml
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.Resources.resources
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.vbproj.GenerateResource.Cache
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.dll
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.xml
+E:\BCA\vb.net\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.pdb
